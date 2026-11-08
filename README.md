@@ -1,4 +1,4 @@
-# my-java-journey
+# MY JAVA JOURNEY
 
 A topic-oriented personal Java learning archive documenting my programming progress through hands-on practice, concept exploration, and problem-solving exercises.
 
